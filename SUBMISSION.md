@@ -158,8 +158,7 @@ Contains the recorded test accuracy, test loss, and training configuration.
 
 The complete experiment is also available through a Google Colab notebook.
 
-**Colab:**
-`PASTE_YOUR_COLAB_LINK_HERE`
+**Colab:** https://colab.research.google.com/drive/13zGFxU52UIeRjYQJ5UWtOd6Dcb_n9-X5
 
 The notebook should use the current GitHub repository as its source so that the code, experiment, and generated results remain aligned.
 

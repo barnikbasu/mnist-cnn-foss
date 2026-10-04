@@ -1,0 +1,6 @@
+Test Accuracy: 0.9925 (99.25%)
+Test Loss: 0.0255
+Epochs: 10
+Batch Size: 128
+Optimizer: Adam
+Loss Function: Sparse Categorical Crossentropy
